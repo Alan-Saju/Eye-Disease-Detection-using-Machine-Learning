@@ -1,6 +1,6 @@
 # Vision Saver: Eye Disease Prediction
 
-Vision Saver is a web application built using Django and Bootstrap, designed to predict eye diseases using a deep learning model trained with TensorFlow. The model boasts an accuracy of 90% in identifying various eye conditions. The application is hosted on Azure for seamless accessibility.
+Vision Saver is a web application built using Django and Bootstrap, designed to predict eye diseases using a deep learning model trained with TensorFlow. The model boasts an accuracy of 90% in identifying various eye conditions.
 
 ## Abstract
 
